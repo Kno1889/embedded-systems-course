@@ -1,0 +1,6 @@
+"Task Aware Debugger for GDB" version 11.9.0 (202311161535)
+Copyright 2016-2023 NXP
+==================================
+12:26:21.581 INFO: [ZephyrRTOS] .config file could not be read [C:\Users\hassak9\Documents\GitHub\lab0-bare-metal-applications-group90\frdmk66f_hello_world_2\Debug\.config (The system cannot find the file specified)]
+12:26:21.581 INFO: [TadModel] DSF session ID 32 has started.
+12:26:27.115 INFO: [TadModel] DSF session ID 32 has ended.
