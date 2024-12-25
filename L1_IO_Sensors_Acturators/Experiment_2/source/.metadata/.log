@@ -1,0 +1,19 @@
+!SESSION 2024-02-04 14:01:09.798 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\petrevsn\Documents\4DS4\Lab 1\bare-metal-i-o-sensors-and-actuators-group90\frdmk66f_hello_world\source
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2024-02-04 14:01:17.119
+!MESSAGE Recreating part support. No part support available.
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-04 14:01:20.374
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\petrevsn'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2024-02-04 14:01:21.146
+!MESSAGE The device 'MK66FN2M0xxx18' (version='1.0.0') from SDK 'SDK_2.x_FRDM-K66F' (version='2.11.0', build='epluginsite519 2022-01-17') will be installed.
